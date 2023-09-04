@@ -1,1 +1,1 @@
-FROM composer/composer:2.5.8-bin as composer
+FROM composer/composer:2.6.2-bin@sha256:a3f8d8e8a97309b508ed1581500c8ec35482b8095fd2e96630bb4770bcd5100e as composer
