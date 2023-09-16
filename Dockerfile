@@ -1,1 +1,1 @@
-FROM composer/composer:2.5.8-bin as composer
+FROM composer/composer:2.6.3-bin as composer
